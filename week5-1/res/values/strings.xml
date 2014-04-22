@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week5 App1</string>
+    <string name="warTask">coursera.android101.week5.WarTask</string>
+    <string name="jabberTask">coursera.android101.week5.JabberTask</string>
+    <string name="nasaTask">coursera.android101.week5.NasaTask</string>
+    <string name="roundballTask">coursera.android101.week5.RoundballTask</string>
+    <string name="activity_war">War of the Worlds</string>
+    <string name="activity_jabber">Jabberwocky</string>
+    <string name="activity_nasa">U of I at NSAS</string>
+    <string name="activity_roundball">Roundball</string>
+    <string name="wikiButton">Wikipedia</string>
+    <string name="imageButton">BanderSnatch</string>
+</resources>

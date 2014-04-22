@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Briefly Berners-Lee and Gosling</string>
+
+    <string name="author1_name">Tim Berners-Lee</string>
+    <string name="author1_photo_desc">Photo of Tim Berners-Lee</string>
+    <string name="author1_attribution">http://www.flickr.com/photos/4nitsirk</string>
+    <string name="author1_desc">
+    <![CDATA[
+        Sir Timothy John \"Tim\" Berners-Lee, OM, KBE, FRS, FREng, FRSA, DFBCS (born 8 June 1955),
+        also known as \"TimBL\", is a British computer scientist, best known as the inventor of the
+        World Wide Web. He made a proposal for an information management system in March 1989, and
+        he implemented the first successful communication between a Hypertext Transfer Protocol (HTTP)
+        client and server via the Internet sometime around mid November.\n
+        Berners-Lee is the director of the World Wide Web Consortium (W3C), which oversees the Web\'s
+        continued development. He is also the founder of the World Wide Web Foundation, and is a senior
+        researcher and holder of the Founders Chair at the MIT Computer Science and Artificial Intelligence
+        Laboratory (CSAIL). He is a director of the Web Science Research Initiative (WSRI), and a member
+        of the advisory board of the MIT Center for Collective Intelligence.
+    ]]>
+    </string>
+
+    <string name="author2_name">James Gosling</string>
+    <string name="author2_photo_desc">Photo of James Gosling</string>
+    <string name="author2_attribution">http://en.wikipedia.org/wiki/User:Peter_Campbell</string>
+    <string name="author2_desc">
+    <![CDATA[
+        James Arthur Gosling, OC (born May 19, 1955) is a Canadian computer scientist, best known as the
+        father of the Java programming language.\n
+        Gosling is generally credited with having invented the Java programming language in 1994. He
+        created the original design of Java and implemented the language\'s original compiler and virtual
+        machine.\n
+        Gosling traces the origins of the approach to his early 19s graduate-student days, when he created
+        a pseudo-code (p-code) virtual machine for the lab\'s DEC VAX computer, so that his professor could
+        run programs written in UCSD Pascal. Pascal compiled into p-code to foster precisely this kind of
+        portability. In the work leading to Java at Sun, he saw that architecture-neutral execution for
+        widely distributed programs could be achieved by implementing a similar philosophy: always program
+        for the same virtual machine.
+    ]]>
+    </string>
+</resources>

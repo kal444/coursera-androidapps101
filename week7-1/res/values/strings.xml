@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">week7-1</string>
+    <string name="enterSomething">Text</string>
+    <string name="instruction">Enter some text below to see it placed in an image</string>
+    <string name="resultDesc">Processing Result</string>
+</resources>
